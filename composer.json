@@ -1,5 +1,5 @@
 {
-    "name": "mehr-it/zbar-php",
+    "name": "vix/zbar-php",
     "description": "zbar-php is a php package that provides an interface to the zbar bar-code reading library.",
     "keywords": [
         "tarfin-labs",
